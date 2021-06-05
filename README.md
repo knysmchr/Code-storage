@@ -1,2 +1,1 @@
-
-コード置き場です。
+GoogleColaboratoryで作成したコードの置き場です。
